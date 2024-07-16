@@ -7,9 +7,7 @@ This project was realized on the React using the TS
 https://todoist-blond-seven.vercel.app/
 
 ## Documentation
-Realized all the conditions of the building but at one point withdrew for compulsory reasons. Instead of Redis and Docker I just used Postgres and Typeorm because the work laptop with Linux was temporarily in repair and worked on Windows, where to deploy successfully these technologies did not work (virtualization is not supported). But otherwise I tried to adhere to the task in detail. 
-
-At the expense of units of measurement in the code conditionally took the standard parameters of the sensor in the pixel 200 * 300 led conditionally to millimeters and then performed the translation into meters or meters per second if it is about speed, and time in seconds.
+I implemented all the mini copies of the Todoist app. For styling, I used Tailwind .All the functions implemented in the application at the moment are listed below
 
 
 ## Features
